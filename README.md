@@ -2,7 +2,7 @@
 
 A polished, responsive, and feature-rich Tic Tac Toe game built using **React.js** and **Vite**. This project features a modern dark theme, personalized player naming, a persistent scoreboard, and professional animations.
 
-![Tic Tac Toe Preview](https://raw.githubusercontent.com/username/repo/main/public/preview.png) *(Placeholder for your preview image)*
+![Tic Tac Toe Preview](./preview.png)
 
 ## ✨ Features
 
